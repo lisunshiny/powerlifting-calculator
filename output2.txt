@@ -1,0 +1,672 @@
+BACK SQUAT
+
+~ 1x8 at 70.0% ~
+75 lbs (73.5): 
+15.0 lbs per side
+
+~ 1x5 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x3 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x2 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x1 at 90.0% ~
+95 lbs (94.5): 
+25.0 lbs per side
+
+BENCH
+
+~ 1x8 at 70.0% ~
+75 lbs (73.5): 
+15.0 lbs per side
+
+~ 1x5 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x3 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x2 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x1 at 90.0% ~
+95 lbs (94.5): 
+25.0 lbs per side
+
+DEADLIFT
+
+~ 1x8 at 70.0% ~
+115 lbs (115.5): 
+35.0 lbs per side
+
+~ 1x5 at 75.0% ~
+125 lbs (123.8): 
+40.0 lbs per side
+
+~ 1x3 at 80.0% ~
+130 lbs (132.0): 
+42.5 lbs per side
+
+~ 1x2 at 85.0% ~
+140 lbs (140.2): 
+47.5 lbs per side
+
+~ 1x1 at 90.0% ~
+150 lbs (148.5): 
+52.5 lbs per side
+
+STRICT PRESS
+
+~ 1x8 at 70.0% ~
+55 lbs (54.2): 
+5.0 lbs per side
+
+~ 1x5 at 75.0% ~
+60 lbs (58.1): 
+7.5 lbs per side
+
+~ 1x3 at 80.0% ~
+60 lbs (62.0): 
+7.5 lbs per side
+
+~ 1x2 at 85.0% ~
+65 lbs (65.9): 
+10.0 lbs per side
+
+~ 1x1 at 90.0% ~
+70 lbs (69.8): 
+12.5 lbs per side
+
+BENCH
+
+~ 1x5 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x5 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x3 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x3 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x2 at 83.0% ~
+85 lbs (87.1): 
+20.0 lbs per side
+
+
+
+BACK SQUAT
+
+~ 1x8 at 71.0% ~
+75 lbs (74.5): 
+15.0 lbs per side
+
+~ 1x5 at 76.0% ~
+80 lbs (79.8): 
+17.5 lbs per side
+
+~ 1x3 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x2 at 86.0% ~
+90 lbs (90.3): 
+22.5 lbs per side
+
+~ 1x1 at 92.0% ~
+95 lbs (96.6): 
+25.0 lbs per side
+
+BENCH
+
+~ 1x8 at 71.0% ~
+75 lbs (74.5): 
+15.0 lbs per side
+
+~ 1x5 at 76.0% ~
+80 lbs (79.8): 
+17.5 lbs per side
+
+~ 1x3 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x2 at 86.0% ~
+90 lbs (90.3): 
+22.5 lbs per side
+
+~ 1x1 at 92.0% ~
+95 lbs (96.6): 
+25.0 lbs per side
+
+DEADLIFT
+
+~ 1x8 at 71.0% ~
+115 lbs (117.1): 
+35.0 lbs per side
+
+~ 1x5 at 76.0% ~
+125 lbs (125.4): 
+40.0 lbs per side
+
+~ 1x3 at 82.0% ~
+135 lbs (135.3): 
+45.0 lbs per side
+
+~ 1x2 at 86.0% ~
+140 lbs (141.9): 
+47.5 lbs per side
+
+~ 1x1 at 92.0% ~
+150 lbs (151.8): 
+52.5 lbs per side
+
+STRICT PRESS
+
+~ 1x8 at 71.0% ~
+55 lbs (55.0): 
+5.0 lbs per side
+
+~ 1x5 at 76.0% ~
+60 lbs (58.9): 
+7.5 lbs per side
+
+~ 1x3 at 82.0% ~
+65 lbs (63.5): 
+10.0 lbs per side
+
+~ 1x2 at 86.0% ~
+65 lbs (66.7): 
+10.0 lbs per side
+
+~ 1x1 at 92.0% ~
+70 lbs (71.3): 
+12.5 lbs per side
+
+BENCH
+
+~ 1x5 at 76.0% ~
+80 lbs (79.8): 
+17.5 lbs per side
+
+~ 1x5 at 76.0% ~
+80 lbs (79.8): 
+17.5 lbs per side
+
+~ 1x3 at 81.0% ~
+85 lbs (85.1): 
+20.0 lbs per side
+
+~ 1x3 at 81.0% ~
+85 lbs (85.1): 
+20.0 lbs per side
+
+~ 1x2 at 84.0% ~
+90 lbs (88.2): 
+22.5 lbs per side
+
+
+
+BACK SQUAT
+
+~ 1x8 at 74.0% ~
+80 lbs (77.7): 
+17.5 lbs per side
+
+~ 1x5 at 78.0% ~
+80 lbs (81.9): 
+17.5 lbs per side
+
+~ 1x3 at 84.0% ~
+90 lbs (88.2): 
+22.5 lbs per side
+
+~ 1x2 at 89.0% ~
+95 lbs (93.5): 
+25.0 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+BENCH
+
+~ 1x8 at 74.0% ~
+80 lbs (77.7): 
+17.5 lbs per side
+
+~ 1x5 at 78.0% ~
+80 lbs (81.9): 
+17.5 lbs per side
+
+~ 1x3 at 84.0% ~
+90 lbs (88.2): 
+22.5 lbs per side
+
+~ 1x2 at 89.0% ~
+95 lbs (93.5): 
+25.0 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+DEADLIFT
+
+~ 1x8 at 74.0% ~
+120 lbs (122.1): 
+37.5 lbs per side
+
+~ 1x5 at 78.0% ~
+130 lbs (128.7): 
+42.5 lbs per side
+
+~ 1x3 at 84.0% ~
+140 lbs (138.6): 
+47.5 lbs per side
+
+~ 1x2 at 89.0% ~
+145 lbs (146.8): 
+50.0 lbs per side
+
+~ 1x1 at 100% ~
+165 lbs (165.0): 
+60.0 lbs per side
+
+STRICT PRESS
+
+~ 1x8 at 74.0% ~
+55 lbs (57.4): 
+5.0 lbs per side
+
+~ 1x5 at 78.0% ~
+60 lbs (60.5): 
+7.5 lbs per side
+
+~ 1x3 at 84.0% ~
+65 lbs (65.1): 
+10.0 lbs per side
+
+~ 1x2 at 89.0% ~
+70 lbs (69.0): 
+12.5 lbs per side
+
+~ 1x1 at 100% ~
+80 lbs (77.5): 
+17.5 lbs per side
+
+BENCH
+
+~ 1x5 at 77.0% ~
+80 lbs (80.9): 
+17.5 lbs per side
+
+~ 1x5 at 77.0% ~
+80 lbs (80.9): 
+17.5 lbs per side
+
+~ 1x3 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x3 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x2 at 86.0% ~
+90 lbs (90.3): 
+22.5 lbs per side
+
+
+
+BACK SQUAT
+
+~ 1x8 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x5 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x3 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x2 at 92.0% ~
+95 lbs (96.6): 
+25.0 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+BENCH
+
+~ 1x8 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x5 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x3 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x2 at 92.0% ~
+95 lbs (96.6): 
+25.0 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+DEADLIFT
+
+~ 1x8 at 75.0% ~
+125 lbs (123.8): 
+40.0 lbs per side
+
+~ 1x5 at 80.0% ~
+130 lbs (132.0): 
+42.5 lbs per side
+
+~ 1x3 at 85.0% ~
+140 lbs (140.2): 
+47.5 lbs per side
+
+~ 1x2 at 92.0% ~
+150 lbs (151.8): 
+52.5 lbs per side
+
+~ 1x1 at 100% ~
+165 lbs (165.0): 
+60.0 lbs per side
+
+STRICT PRESS
+
+~ 1x8 at 75.0% ~
+60 lbs (58.1): 
+7.5 lbs per side
+
+~ 1x5 at 80.0% ~
+60 lbs (62.0): 
+7.5 lbs per side
+
+~ 1x3 at 85.0% ~
+65 lbs (65.9): 
+10.0 lbs per side
+
+~ 1x2 at 92.0% ~
+70 lbs (71.3): 
+12.5 lbs per side
+
+~ 1x1 at 100% ~
+80 lbs (77.5): 
+17.5 lbs per side
+
+BENCH
+
+~ 1x5 at 78.0% ~
+80 lbs (81.9): 
+17.5 lbs per side
+
+~ 1x5 at 78.0% ~
+80 lbs (81.9): 
+17.5 lbs per side
+
+~ 1x3 at 83.0% ~
+85 lbs (87.1): 
+20.0 lbs per side
+
+~ 1x3 at 83.0% ~
+85 lbs (87.1): 
+20.0 lbs per side
+
+~ 1x2 at 87.0% ~
+90 lbs (91.3): 
+22.5 lbs per side
+
+
+
+BACK SQUAT
+
+~ 1x8 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x5 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x3 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x2 at 92.0% ~
+95 lbs (96.6): 
+25.0 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+BENCH
+
+~ 1x8 at 75.0% ~
+80 lbs (78.8): 
+17.5 lbs per side
+
+~ 1x5 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x3 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x2 at 92.0% ~
+95 lbs (96.6): 
+25.0 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+DEADLIFT
+
+~ 1x8 at 75.0% ~
+125 lbs (123.8): 
+40.0 lbs per side
+
+~ 1x5 at 80.0% ~
+130 lbs (132.0): 
+42.5 lbs per side
+
+~ 1x3 at 85.0% ~
+140 lbs (140.2): 
+47.5 lbs per side
+
+~ 1x2 at 92.0% ~
+150 lbs (151.8): 
+52.5 lbs per side
+
+~ 1x1 at 100% ~
+165 lbs (165.0): 
+60.0 lbs per side
+
+STRICT PRESS
+
+~ 1x8 at 75.0% ~
+60 lbs (58.1): 
+7.5 lbs per side
+
+~ 1x5 at 80.0% ~
+60 lbs (62.0): 
+7.5 lbs per side
+
+~ 1x3 at 85.0% ~
+65 lbs (65.9): 
+10.0 lbs per side
+
+~ 1x2 at 92.0% ~
+70 lbs (71.3): 
+12.5 lbs per side
+
+~ 1x1 at 100% ~
+80 lbs (77.5): 
+17.5 lbs per side
+
+BENCH
+
+~ 1x5 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x5 at 80.0% ~
+85 lbs (84.0): 
+20.0 lbs per side
+
+~ 1x3 at 84.0% ~
+90 lbs (88.2): 
+22.5 lbs per side
+
+~ 1x3 at 84.0% ~
+90 lbs (88.2): 
+22.5 lbs per side
+
+~ 1x2 at 88.0% ~
+90 lbs (92.4): 
+22.5 lbs per side
+
+
+
+BACK SQUAT
+
+~ 1x8 at 76.0% ~
+80 lbs (79.8): 
+17.5 lbs per side
+
+~ 1x5 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x3 at 86.0% ~
+90 lbs (90.3): 
+22.5 lbs per side
+
+~ 1x2 at 95.0% ~
+100 lbs (99.8): 
+27.5 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+BENCH
+
+~ 1x8 at 76.0% ~
+80 lbs (79.8): 
+17.5 lbs per side
+
+~ 1x5 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x3 at 86.0% ~
+90 lbs (90.3): 
+22.5 lbs per side
+
+~ 1x2 at 95.0% ~
+100 lbs (99.8): 
+27.5 lbs per side
+
+~ 1x1 at 100% ~
+105 lbs (105.0): 
+30.0 lbs per side
+
+DEADLIFT
+
+~ 1x8 at 76.0% ~
+125 lbs (125.4): 
+40.0 lbs per side
+
+~ 1x5 at 82.0% ~
+135 lbs (135.3): 
+45.0 lbs per side
+
+~ 1x3 at 86.0% ~
+140 lbs (141.9): 
+47.5 lbs per side
+
+~ 1x2 at 95.0% ~
+155 lbs (156.8): 
+55.0 lbs per side
+
+~ 1x1 at 100% ~
+165 lbs (165.0): 
+60.0 lbs per side
+
+STRICT PRESS
+
+~ 1x8 at 76.0% ~
+60 lbs (58.9): 
+7.5 lbs per side
+
+~ 1x5 at 82.0% ~
+65 lbs (63.5): 
+10.0 lbs per side
+
+~ 1x3 at 86.0% ~
+65 lbs (66.7): 
+10.0 lbs per side
+
+~ 1x2 at 95.0% ~
+75 lbs (73.6): 
+15.0 lbs per side
+
+~ 1x1 at 100% ~
+80 lbs (77.5): 
+17.5 lbs per side
+
+BENCH
+
+~ 1x5 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x5 at 82.0% ~
+85 lbs (86.1): 
+20.0 lbs per side
+
+~ 1x3 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x3 at 85.0% ~
+90 lbs (89.2): 
+22.5 lbs per side
+
+~ 1x2 at 90.0% ~
+95 lbs (94.5): 
+25.0 lbs per side
+
+
+
